@@ -1,0 +1,23 @@
+.background {
+    background-color: rgba(238, 164, 96, 0.75);
+}
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+}
+table tr td:last-child{
+    width: 120px;
+}
+
+.button-style {
+    background-color: #ffa0df;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+span.fa {
+    color: #000000;
+}
+
+.button-style:hover {
+    background-color: #f59ad6;
+}
